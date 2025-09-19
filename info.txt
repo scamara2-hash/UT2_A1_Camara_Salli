@@ -1,3 +1,3 @@
 Nombre:Salli
 Apellidos:Camara Camara
-Hobbies:fútbol
+Módulos:IMSO,RELO,APW,SOMO,ITM1,SOSM,APOF,IPGM,APOF,DIGM
